@@ -20,4 +20,4 @@ Explore quantum quadrature methods and solve the Helmholtz equation with this Py
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/quad-helmholtz.git
+git clone https://github.com/choukrani/quad-helmholtz.git
