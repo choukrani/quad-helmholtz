@@ -1,4 +1,4 @@
-# quad-helmholtz
+# Quadrature Methods: Helmholtz equation 
 
 In this project, we studied various quadrature methods (Trapezoidal - Gauss - Hermite) for numerically evaluating an integral. Initially, our focus was on implementing these methods and illustrating their convergence properties. Subsequently, we explored the application of this Python implementation to solve the Helmholtz equation in a homogeneous half-plane. 
 
@@ -15,16 +15,19 @@ In this project, we studied various quadrature methods (Trapezoidal - Gauss - He
 
 ```bash
 git clone https://github.com/choukrani/quad-helmholtz.git
+```
 
 2. Navigate to the project directory:
 
 ```bash
 cd quad-helmholtz
+```
 
 3. Run the desired Python script:
 
 ```bash
 python3 main.py
+```
 
 
 ## License
