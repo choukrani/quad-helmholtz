@@ -32,7 +32,7 @@ python3 main.py
 
 ## License
 
-This repository is licensed under the MIT License. See the [LICENSE](LICENSE.md) file for details.
+This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 
 ## Contact
