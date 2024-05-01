@@ -4,10 +4,10 @@ In this project, we studied various quadrature methods for numerically evaluatin
 
 ## Contents
 
-- **algo.py**: Contains implementations of numerical integration methods (Trapezoidal - Gauss - Hermite)
-- **affichage.py**: Provides functions for displaying results, including plotting 1D and 2D solutions.
-- **data.py**: Defines the functions to be integrated and their derivatives.
-- **main.py**: Main script to run various experiments, including integral calculations, convergence analysis, and solving the Helmholtz equation.
+- `algo.py` Contains implementations of numerical integration methods (Trapezoidal - Gauss - Hermite)
+- `affichage.py` Provides functions for displaying results, including plotting 1D and 2D solutions.
+- `data.py` Defines the functions to be integrated and their derivatives.
+- `main.py` Main script to run various experiments, including integral calculations, convergence analysis, and solving the Helmholtz equation.
 
 ## Usage
 
